@@ -1,0 +1,12 @@
+.red {
+  color: red;
+}
+
+.bg-dark {
+  color: white;
+  background-color: black;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
